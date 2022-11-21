@@ -1,0 +1,76 @@
+/*
+	Reset Selector - don't remove this!
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* 
+	You can modify everything after this point.
+*/
+
+a:link, a:visited {
+	color: blue;
+}
+
+a:focus, a:hover {
+	background-color: #ddddff;
+	border-radius: 5px;
+	text-decoration: underline;
+	transition-duration: 0.2s;
+	transition-property: background;
+}
+
+body {
+	font-size: 15px;
+	line-height: 120%;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+code {
+	
+}
+
+h1, h2, h3 {
+	font-size: 25px;
+	line-height: 120%;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+	margin-bottom: 1em;
+}
+
+h2 {
+
+}
+
+h3 {
+	
+}
+
+header {
+	
+}
+
+main {
+
+}
+
+p {
+	max-width: 70ch;
+	margin-bottom: 1em;
+	text-align: left;
+}
+
+
+
+#intro {
+
+}
+
+#how-does-it-work, #influence, #joke {
+
+}
