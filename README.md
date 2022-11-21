@@ -1,1 +1,1 @@
-# typography
+showing off my Typography with css and remembering what i learned.
